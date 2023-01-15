@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<new aboutid="1">
+   <basic_theory>testing, writing docs, SDLC, STLC</full_name>
+   <client-server_arch>server, cllient</client-server_arch>
+   <HTTP>HTTP methods, server respones codes, structer of HTTP inputs</HTTP>  
+   <structer>syntax of xml and json</structer>
+     <Api>API testing by Postman, API autotests</Api>
+      <log>logs from an external server: reading and removing logs</log>
+      <snif>Sniffing by Charles and Fiddler</snif>
+      <dev>Dev Tools </dev>
+      <VPN>VPN</VPN>
+      <mob>mobile testing</mob> 
+      <andr_std>Android Studio</andr_std>
+      <adb>android debug bridge</adb>
+       <term>GitBash, autotests</term>
+       <sql>SQL Basics</sql>
+       <postdb>Postgres database</postdb>
+       <redis>redis database</redis>
+       <jm>JMeter</jm>
+        <pyt>Python</pyt>
+</new>
