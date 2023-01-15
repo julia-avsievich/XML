@@ -1,0 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<bug_report aboutid="1">
+   <id>D3</id>
+   <Summary>Unable to add an item to the cart</Summary>
+   <Description>The button 'cart' isn't clickable in the page 'Favourite'</Description>
+   <STR>1. Open app; 2. Go to the 'Market' page; 3. Add an item to the 'Favourite'; 4. Open page 'Favoutite'; 5. Click on button 'cart';</STR>
+     <Expected_result>1. Button is clickable; 2. Item is added to the 'Cart' page</Expected_result>
+      <Actual result>1. Button isn't clickable; 2. Item isn't added to the 'Cart' Page;</Actual result>
+      <Severity>Critical</Severity>
+      <Priority>High</Priority>
+      <Comments>Have a good day</Comments>
+   
+</bug_report>
